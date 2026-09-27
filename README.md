@@ -2,7 +2,7 @@
 
 Hi, my name is Alex Clarke!
 
-I'm a co-founder and the Chief Medical Officer of [Pharos Health](https://pharos.health), a Y Combinator company in San Francisco. We automate hospital quality reporting, replacing manual chart review with models that read the medical record and pull out the clinical data hospitals have to submit to national registries. It is now live across five US health systems.
+I'm a co-founder and the Chief Medical Officer of [Pharos Health](https://pharos.health), a Y Combinator company in San Francisco. We automate hospital quality reporting, replacing manual chart review with models that read the medical record and pull out the clinical data hospitals have to submit to national registries. 
 
 Before Pharos I was a research scientist at Meta Reality Labs, working on non-invasive neural interfaces with CTRL and the Imperial-Meta Wearable Neural Interfaces Research Centre. There I pretrained self-supervised models on wearable EMG and built real-time decoders that turn muscle signals into hand movements.
 
